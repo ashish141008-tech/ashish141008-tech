@@ -1,16 +1,33 @@
-## Hi there 👋
+👋 Hey there, I'm Ashish Gupta!
 
-<!--
-**ashish141008-tech/ashish141008-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my little corner of GitHub!
 
-Here are some ideas to get you started:
+I'm passionate about Data Analysis, business insights, and building dashboards that turn raw data into meaningful stories. I'm continuously learning new tools and techniques to grow in my career as a Data Analyst.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here you'll find:
+
+* 📊 Data Analysis Projects using SQL, Excel, and Power BI
+* 📈 Interactive Dashboards that uncover business insights
+* 🧠 Things I learn while solving real-world data problems
+* 🚀 Projects where I practice turning data into decisions
+
+Whether you're here to explore projects, learn something new, or see how I approach data problems — you're welcome!
+
+Let's learn, analyze, and grow together — one dataset at a time.
+
+☕ You bring the curiosity, I'll bring the data insights.
+
+---
+
+🛠 Tools & Technologies
+
+SQL | Power BI | Excel | Data Visualization | Git | GitHub
+
+🌱 Currently Learning
+
+Advanced SQL • Data Storytelling • Business Analytics
+
+📫 Connect With Me
+
+📧 Email: [ashish141008@gmail.com](mailto:ashish141008@gmail.com)
+📍 Ludhiana, Punjab, India
