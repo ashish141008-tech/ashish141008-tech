@@ -9,7 +9,7 @@ Currently working as a **Store Executive**, where I manage inventory and analyze
 
 ## 💼 Professional Experience
 
-**Store Executive**
+**Asst. Store Executive**
 
 * Managing inventory and stock operations
 * Monitoring product movement and maintaining records
