@@ -61,18 +61,23 @@ Currently working as a **Store Executive**, where I manage inventory and analyze
 
 ### 📈 Superstore Sales Analysis (Power BI)
 
-* Built an interactive dashboard analyzing sales and profit trends
-* Identified top-performing regions and product categories
+### **Superstore Sales Analysis Dashboard | Python, Power BI**
+
+* Analyzed a retail dataset of **9,994 rows and 21 columns** using Python and Power BI; performed EDA and calculated KPIs including **$2.3M Sales, $286K Profit, and 12% Profit Margin**.
+* Built an interactive dashboard to identify sales trends, regional performance, loss-making sub-categories, and the negative impact of high discounts on profitability.
+
 
 ### 👨‍💼 HR Analytics Dashboard
 
-* Analyzed employee attrition and workforce trends
-* Created KPI metrics and visual insights
+* Developed an interactive HR Analytics Dashboard in Power BI using 1470 employee records to analyze attrition trends and identify key drivers such as overtime, salary, age group, and job role.
 
-### 🗄 SQL Data Analysis
+* Discovered a 16.1% attrition rate with highest turnover in Sales and among employees aged 18–25, helping provide data-driven recommendations to improve employee retention and workforce stability.
 
-* Performed data analysis using SQL queries
-* Used joins, aggregations, and window functions
+### 🗄 COVID-19 Vaccination Analysis — Microsoft Fabric | SQL | Power BI
+
+* Analyzed 100K+ global vaccination records across 200+ countries using Microsoft Fabric Lakehouse and SQL to uncover vaccination trends, country-wise progress, and vaccine distribution insights for public health analysis.
+* Built an interactive Power BI dashboard with KPI cards, trend analysis, geo-visualizations, and slicers while resolving cumulative aggregation and data modeling challenges to improve reporting accuracy and decision-making.
+
 
 ---
 
