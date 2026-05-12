@@ -9,11 +9,13 @@ Currently working as a **Store Executive**, where I manage inventory and analyze
 
 ## 💼 Professional Experience
 
-**Asst. Store Executive**
+**Assistant Store Manager (Data & Operations)**
+**Yasharyn Packaging Pvt. Ltd. **
 
-* Managing inventory and stock operations
-* Monitoring product movement and maintaining records
-* Working with data to track stock levels and improve efficiency
+* Built and maintained operational reports in Excel tracking daily stock movement, reducing manual reconciliation time by ~30%.
+* Analyzed inventory demand patterns across 3+ product categories to forecast replenishment needs and prevent stockouts.
+* Designed a structured documentation system for goods movement, improving data accuracy for monthly reporting cycles.
+* Produced data-backed status reports for cross-functional teams, ensuring on-time stock availability and operational efficiency.
 
 ---
 
