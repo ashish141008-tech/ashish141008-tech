@@ -9,8 +9,9 @@ Currently working as a **Store Executive**, where I manage inventory and analyze
 
 ## 💼 Professional Experience
 
-**Assistant Store Manager (Data & Operations)**
-**Yasharyn Packaging Pvt. Ltd. **
+### **Assistant Store Manager (Data & Operations)**
+
+**Yasharyn Packaging Pvt. Ltd.**
 
 * Built and maintained operational reports in Excel tracking daily stock movement, reducing manual reconciliation time by ~30%.
 * Analyzed inventory demand patterns across 3+ product categories to forecast replenishment needs and prevent stockouts.
@@ -44,42 +45,42 @@ Currently working as a **Store Executive**, where I manage inventory and analyze
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 
-
 ---
 
 ## 📊 GitHub Stats
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish141008-tech&show_icons=true&theme=tokyonight)
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish141008-tech\&show_icons=true\&theme=tokyonight)
 
 ---
 
 ## 🔥 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashish141008-tech&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashish141008-tech\&theme=tokyo-night)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📈 Superstore Sales Analysis (Power BI)
+### 📈 Superstore Sales Analysis Dashboard | Python, Power BI
 
-### **Superstore Sales Analysis Dashboard | Python, Power BI**
-
-* Analyzed a retail dataset of **9,994 rows and 21 columns** using Python and Power BI; performed EDA and calculated KPIs including **$2.3M Sales, $286K Profit, and 12% Profit Margin**.
-* Built an interactive dashboard to identify sales trends, regional performance, loss-making sub-categories, and the negative impact of high discounts on profitability.
-
+* Analyzed a retail dataset of **9,994 rows and 21 columns** using Python and Power BI.
+* Calculated KPIs including **$2.3M Sales, $286K Profit, and 12% Profit Margin**.
+* Built an interactive dashboard to identify sales trends, regional performance, and loss-making categories.
+* Analyzed the negative impact of discounts on profitability.
 
 ### 👨‍💼 HR Analytics Dashboard
 
-* Developed an interactive HR Analytics Dashboard in Power BI using 1470 employee records to analyze attrition trends and identify key drivers such as overtime, salary, age group, and job role.
-
-* Discovered a 16.1% attrition rate with highest turnover in Sales and among employees aged 18–25, helping provide data-driven recommendations to improve employee retention and workforce stability.
+* Developed an interactive HR Analytics Dashboard in Power BI using **1470 employee records**.
+* Identified key attrition drivers including overtime, salary, age group, and job role.
+* Discovered a **16.1% attrition rate**, highest in Sales and employees aged 18–25.
+* Provided data-driven recommendations to improve workforce retention.
 
 ### 🗄 COVID-19 Vaccination Analysis — Microsoft Fabric | SQL | Power BI
 
-* Analyzed 100K+ global vaccination records across 200+ countries using Microsoft Fabric Lakehouse and SQL to uncover vaccination trends, country-wise progress, and vaccine distribution insights for public health analysis.
-* Built an interactive Power BI dashboard with KPI cards, trend analysis, geo-visualizations, and slicers while resolving cumulative aggregation and data modeling challenges to improve reporting accuracy and decision-making.
-
+* Analyzed **100K+ global vaccination records** across 200+ countries.
+* Used Microsoft Fabric Lakehouse and SQL for trend and distribution analysis.
+* Built interactive Power BI dashboards with KPI cards, geo-visualizations, and slicers.
+* Improved reporting accuracy through data modeling and aggregation optimization.
 
 ---
 
@@ -90,14 +91,13 @@ Currently working as a **Store Executive**, where I manage inventory and analyze
 * Deloitte Data Analytics Virtual Experience Program
 * Tata Data Analytics & Business Insights Program
 * Quantium Data Analytics Virtual Internship
-* Data Analytics Certification – OneRoadmap
+* Data Analytics Certification – OneRoadMap
 
 ---
 
 ## 🌱 Currently Learning
 
 * Microsoft Fabric (Lakehouse, Pipelines, Dataflows)
-* Advanced SQL
 * Python for Data Analysis
 
 ---
@@ -110,4 +110,3 @@ Currently working as a **Store Executive**, where I manage inventory and analyze
 ---
 
 ⭐ Always learning, building, and growing in data analytics.
-
