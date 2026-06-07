@@ -49,14 +49,13 @@ Currently working as a **Store Executive**, where I manage inventory and analyze
 
 ## 📊 GitHub Stats
 
-(![Ashish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashish141008-tech\&theme=tokyo-night)
-
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish141008-tech&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashish141008-tech\&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashish141008-tech&theme=tokyo-night)
 
 ---
 
