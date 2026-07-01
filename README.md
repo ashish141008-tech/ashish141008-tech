@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashish Gupta
 
-🎯 Aspiring Data Analyst | SQL | Power BI | Excel | Python | Microsoft Fabric
+🎯 Aspiring Data Analyst | SQL | Power BI | Excel | Python | Tableau | Microsoft Fabric | Business Intelligence | Business Understanding
 
 I’m passionate about transforming raw data into meaningful insights that help businesses make better decisions.
 Currently working as a **Store Executive**, where I manage inventory and analyze operational data while continuously building my skills in data analytics.
@@ -34,9 +34,11 @@ Currently working as a **Store Executive**, where I manage inventory and analyze
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square\&logo=microsoft\&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square\&logo=microsoft-excel\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-4CAF50?style=flat-square&logo=googleanalytics&logoColor=white)
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
@@ -82,6 +84,13 @@ Currently working as a **Store Executive**, where I manage inventory and analyze
 * Built interactive Power BI dashboards with KPI cards, geo-visualizations, and slicers.
 * Improved reporting accuracy through data modeling and aggregation optimization.
 
+### 📊 Customer Churn Analysis | Python | SQL | Power BI
+
+* Analyzed a telecom customer dataset of 7,032 records to identify churn patterns and customer retention risks.
+* Performed data cleaning and exploratory analysis using Python (Pandas, Matplotlib, Seaborn) and solved business problems using SQL.
+* Built an interactive 4-page Power BI dashboard covering churn overview, customer behavior, risk segments, and business recommendations.
+* Identified key churn drivers such as month-to-month contracts, electronic check payments, fiber optic services, and high monthly charges.
+* Discovered an overall 26.58% churn rate and $2.86M revenue loss, with the highest risk segment being Month-to-month + Electronic check customers.
 ---
 
 ## 📜 Certifications
