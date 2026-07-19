@@ -126,9 +126,9 @@ Currently working as a **Store Executive**, where I manage inventory and analyze
 
 ## 📫 Connect With Me
 
-📧 Email: [ashish141008@gmail.com](mailto:ashish141008@gmail.com)
-📧 LinkedIn: (www.linkedin.com/in/ashish-gupta-8245003ba)
-📍 Ludhiana, Punjab, India
+* 📧 Email: [ashish141008@gmail.com](mailto:ashish141008@gmail.com)
+* 📧 LinkedIn: (www.linkedin.com/in/ashish-gupta-8245003ba)
+* 📍 Ludhiana, Punjab, India
 
 ---
 
