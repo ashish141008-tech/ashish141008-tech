@@ -91,6 +91,19 @@ Currently working as a **Store Executive**, where I manage inventory and analyze
 * Built an interactive 4-page Power BI dashboard covering churn overview, customer behavior, risk segments, and business recommendations.
 * Identified key churn drivers such as month-to-month contracts, electronic check payments, fiber optic services, and high monthly charges.
 * Discovered an overall 26.58% churn rate and $2.86M revenue loss, with the highest risk segment being Month-to-month + Electronic check customers.
+
+### 🚚 Supply Chain Analytics Dashboard | Python | SQL Server | Power BI
+
+* Analyzed a supply chain dataset of 180,519 records and 54 columns to evaluate sales performance, customer behavior, shipping efficiency, and delivery operations.
+* Performed data cleaning and preprocessing using Python (Pandas, NumPy), followed by business analysis in SQL Server using joins, aggregations, CTEs, and CASE statements.
+* Built an interactive 3-page Power BI dashboard featuring Executive Overview, Sales & Profit Analysis, and Delivery & Operations with dynamic KPIs and DAX measures.
+* Identified key operational insights such as Standard Class handling the highest order volume, significant late delivery occurrences, shipping mode performance differences, and countries with elevated delivery risk.
+* Developed a business intelligence solution that enables stakeholders to monitor sales, profitability, delivery performance, and supply chain efficiency through interactive visual analytics.
+
+
+
+
+
 ---
 
 ## 📜 Certifications
